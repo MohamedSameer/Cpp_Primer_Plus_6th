@@ -13,3 +13,11 @@ int main()
     // cin.get();
     return 0;
 }
+
+
+/*
+Here is the output from the program in Listing 3.13 for one system:
+tree = 3.000000
+guess = 3
+debt = 1634811904
+*/

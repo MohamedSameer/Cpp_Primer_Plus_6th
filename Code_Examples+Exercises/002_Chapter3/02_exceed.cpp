@@ -27,3 +27,16 @@ int main()
 	// cin.get();
     return 0; 
 }
+
+
+/*
+Here’s the output from the program in Listing 3.2:
+Sam has 32767 dollars and Sue has 32767 dollars deposited.
+Add $1 to each account.
+Now Sam has -32768 dollars and Sue has 32768 dollars deposited.
+Poor Sam!
+Sam has 0 dollars and Sue has 0 dollars deposited.
+Take $1 from each account.
+Now Sam has -1 dollars and Sue has 65535 dollars deposited.
+Lucky Sue!
+*/

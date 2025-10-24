@@ -11,6 +11,7 @@ int main()
 
     // sizeof operator yields size of type or of variable
     cout << "int is " << sizeof (int) << " bytes." << endl;
+    // when you use sizeof operator with the name of the variable, parentheses are optional
     cout << "short is " << sizeof n_short << " bytes." << endl;
     cout << "long is " << sizeof n_long << " bytes." << endl;
     cout << "long long is " << sizeof n_llong << " bytes." << endl;
@@ -27,3 +28,21 @@ int main()
 	// cin.get();
     return 0;
 }
+
+
+/*
+
+Here is sample output from the program in Listing 3.1:
+int is 4 bytes.
+short is 2 bytes.
+long is 4 bytes.
+long long is 8 bytes.
+Maximum values:
+int: 2147483647
+short: 32767
+long: 2147483647
+long long: 9223372036854775807
+Minimum int value = -2147483648
+Bits per byte = 8
+
+*/

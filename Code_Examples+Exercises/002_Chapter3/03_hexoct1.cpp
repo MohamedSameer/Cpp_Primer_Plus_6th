@@ -14,3 +14,11 @@ int main()
 	// cin.get();
     return 0; 
 }
+
+/*
+the following output shows:
+Monsieur cuts a striking figure!
+chest = 42 (42 in decimal)
+waist = 66 (0x42 in hex)
+inseam = 34 (042 in octal)
+*/

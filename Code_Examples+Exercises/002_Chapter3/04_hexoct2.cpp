@@ -17,3 +17,13 @@ int main()
     // cin.get();
     return 0; 
 }
+
+
+/*
+Here’s the program output for Listing 3.4:
+Monsieur cuts a striking figure!
+chest = 42 (decimal for 42)
+waist = 2a (hexadecimal for 42)
+inseam = 52 (octal for 42)
+
+*/

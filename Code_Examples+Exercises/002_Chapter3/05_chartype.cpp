@@ -13,3 +13,10 @@ int main( )
     // cin.get();
     return 0;
 }
+
+/*
+Here’s the output from the program in Listing 3.5:
+Enter a character:
+M
+Hola! Thank you for the M character.
+*/

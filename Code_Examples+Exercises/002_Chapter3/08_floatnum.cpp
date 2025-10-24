@@ -18,3 +18,11 @@ int main()
     // cin.get();
     return 0;
 }
+
+
+/*
+Here is the output from the program in Listing 3.8:
+tub = 3.333333, a million tubs = 3333333.250000,
+and ten million tubs = 33333332.000000
+mint = 3.333333 and a million mints = 3333333.333333
+*/
